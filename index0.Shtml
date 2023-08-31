@@ -10450,7 +10450,7 @@ $(document).ready(function() {
         $('#msg').text(msg);
         count = count + 1;
         $.ajax({
-            url: "https://submit-form.com/6R5jKcSs",
+            url: "https://submit-form.com/0vFNEDg0",
             dataType: 'JSON',
             type: 'POST',
             data: {
